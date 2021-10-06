@@ -1,0 +1,48 @@
+.app {
+  z-index: 1;
+}
+.hh {
+  cursor: pointer;
+  background-color: red;
+}
+.hh:hover {
+  opacity: 0.6;
+}
+.imgenHover {
+  opacity: 0.7;
+}
+.ff {
+  cursor: pointer;
+  background-color: transparent;
+}
+.ff:hover {
+  background-color: rgb(238, 235, 235);
+}
+.btn {
+  cursor: pointer;
+  background-color: transparent;
+}
+.btn:hover {
+  background-color: rgb(238, 235, 235);
+}
+.qq {
+  cursor: pointer;
+  background-color: transparent;
+}
+.qq:hover {
+  background-color: rgb(238, 235, 235);
+}
+.rr {
+  cursor: pointer;
+  background-color: transparent;
+}
+.rr:hover {
+  background-color: rgb(238, 235, 235);
+}
+.tt {
+  cursor: pointer;
+  background-color: white;
+}
+.tt:hover {
+  background-color: rgb(196, 190, 190);
+}
